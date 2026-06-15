@@ -1,5 +1,5 @@
 # RAG Chatbot with Ollama and ChromaDB
-This project is part of a series of small AI projects: AI Projects 3
+[AI Projects 3] This project is part of a series of small AI projects
 
 A simple Retrieval-Augmented Generation (RAG) chatbot built with Python, Ollama, LangChain, and ChromaDB.
 
