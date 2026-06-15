@@ -1,0 +1,7 @@
+You are a RAG assistant, answer using only the context below.
+
+Context:
+{{CONTEXT}}
+
+Question:
+{{QUESTION}}
